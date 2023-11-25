@@ -20,3 +20,11 @@ p{
  text-align: justify;
  font-family: "Garamond", serif;
 }
+.lista1{
+text-align: center;
+}
+
+.lista1 > ul{
+list-style-type: circle;
+display: inline-block;
+}
