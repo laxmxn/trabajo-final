@@ -2,18 +2,19 @@
 h1{
   text-align: center;
   font-family: "Times New Roman", Times, serif;
-  color: orange;
+  color: sienna;
 }
 
 h2{
   text-align: center;
  font-family: Arial, Helvetica, sans-serif;
- color: sienna;
+ color: orange;
 }
 h3{
    text-align: justify;
    font-family: "Lucida Console", "Courier New", monospace;
-  color: red;
+  color: #FFFFFF;
+  color: #ae747f;
  }
 p{
  text-align: justify;
